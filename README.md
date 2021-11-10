@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sszxlk
 - 👀 I’m interested in performance-driven urban design.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning architecture in China
+
 
 <!---
 sszxlk/sszxlk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
